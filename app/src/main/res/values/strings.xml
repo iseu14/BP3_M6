@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BP3_M6</string>
+    <string name="content_text">Kabupaten Kuningan merupakan sebuah wilayah yang berada di Provinsi Jawa Barat. Dikenal sebagai Kota Kuda lantaran memilikinilai sejarah yang panjang dan ikonik. Tak hanya itu, kabupaten ini dikenaljuga sebagai tempat dilaksanakannya Perundingan Linggarjati yang menghasilkanpersetujuan atas status kemerdekaan Indonesia.</string>
+    <string name="content_text2">Kuningan terletak pada namanya. Kata Kuningan sendiri memiliki makna dalam versi yang berbeda-beda.Versi pertama mengatakan bahwa kata \'Kuningan\' ini berasal dari jenis logam kuningan yang mirip dengan logam emas.</string>
+
+    <string name="budaya_detail">1. Sapton dan Panahan Tradisional\n2. Seren Taun\n3. Kawin Cai\n4. Pesta Dadung\n5. Sintren\n6. Cingcowong</string>
+    <string name="makanan_detail">1. Hucap\n2. Nasi Kasreng
+            \n3. Sop Buntut Bakar\n4. Peuyeum Ketan\n5. Tahu Lamping\n6. Kwecang\n7. Rujak Kangkung  </string>
+    <string name="Asal_Usul_Kata_Kuningan">Asal-Usul Kata "KUNINGAN"</string>
+    <string name="specification">Detail</string>
+    <string name="lahir">Lahir</string>
+    <string name="budaya">Budaya yang ada di Kuningan</string>
+    <string name="makanan">Makanan Khas Kuningan</string>
+    <string name="seller">Publish oleh:</string>
+    <string name="my_name">Iseu Ernawati</string>
+    <string name="buy">Detail</string>
+    <string name="dummy_value">KABUPATEN KUNINGAN</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="text">Gedung Linggarjati menjadi saksi sejarah penting Perundingan Linggarjati yang berlangsung pada 11-15 November 1946. Perundingan ini menghasilkan naskah Perjanjian Linggarjati, salah satunya membahas pembentukan Republik Indonesia Serikat (RIS). Gedung yang terletak di Desa Linggarjati, Kecamatan Cilimus, Kabupaten Kuningan, Jawa Barat, kini menjadi tempat wisata sejarah."</string>
+    <string name="wisata">WISATA SEJARAH DI KUNINGAN</string>
+    <string name="linggarjati">Gedung Perundingan Linggarjati</string>
+    <string name="cipari">Museum Situs Purbakala Cipari</string>
+    <string name="text2">Museum Situs Purbakala Cipari diduga sebagai desa permukiman purbakala dengan karakateristik peninggalan bangunan megalitik. Situs yang dikenal dengan nama Taman Purbakala, ditemukan pada 1972. Ada beragam koleksi artefak kuno peninggalan zaman megalitikum atau zaman batu, seperti kubur batu, menhir, batu kapak, gelang batu, gerabah, dan sebagainya. Situs ini terhitung cukup lengkap menggambarkan kehidupan masyarakat pada masa itu. Bagi yang tertarik mempelajari kehidupan dari zaman batu, museum ini berlokasi di Jalan Museum Taman Purbakala, Cipari, Cigugur, Kabupaten Kuningan.</string>
+    <string name="cibulan">Cibulan Obyek Wisata Cibulan</string>
+    <string name="text3">Cibulan, obyek wisata tertua di Kuningan, dikenal dengan ikan dewa, ikan endemik yang dianggap sakral oleh masyarakat setempat sebagai jelmaan prajurit Prabu Siliwangi. Pengunjung dapat berenang, berfoto dengan ikan jinak, serta menikmati tujuh mata air di sekitar kolam utama. Berada di kaki Gunung Ciremai, air kolamnya segar dan dingin. Aktivitas lainnya meliputi flying fox, sepeda air, panahan, terapi ikan, dan sepeda gantung</string>
+</resources>
